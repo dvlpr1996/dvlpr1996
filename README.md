@@ -41,15 +41,20 @@
 #### Social media :
 
 <div align="center">
+	
   <a href="https://instagram.com/nima_jahanbakhshian">
     <img align="left" alt="dvlpr1992" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/nima-jahan-bakhshian">
     <img align="left" alt="dvlpr1992" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	
+	
   <a href="https://t.me/nima_1375">
     <img align="left" alt="dvlpr1992" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
  <a href="mailto:nimajahanbakhshian@gmail.com">
     <img align="left" alt="dvlpr1992" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+	
 </div>
