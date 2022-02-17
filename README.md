@@ -27,6 +27,7 @@
 ![jquery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap%205-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=fff)
 ![tailwindcss](https://img.shields.io/badge/-tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![wordpress](https://img.shields.io/badge/-wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=fff)
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=fff)
