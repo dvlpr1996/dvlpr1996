@@ -25,14 +25,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff)
 ![sass](https://img.shields.io/badge/-sass-c69?style=for-the-badge&logo=sass&logoColor=fff)
 ![jquery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
-
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap%205-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=fff)
 ![tailwindcss](https://img.shields.io/badge/-tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![wordpress](https://img.shields.io/badge/-wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=fff)
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=fff)
 ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=000)
+![wordpress](https://img.shields.io/badge/-wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=fff)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=fff)
@@ -41,7 +40,7 @@
     	
 <br>
 
-#### Social media :
+#### Contact Me :
 
 <div align="center">
 	
