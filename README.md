@@ -1,19 +1,20 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231A86CA&size=22&center=true&vCenter=true&lines=Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
+[![dvlpr1996](https://readme-typing-svg.herokuapp.com?color=%231A86CA&size=22&center=true&vCenter=true&lines=Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
 	
-<h1>Nima jahan bakhshian</h1>
+<h1>Nima jahan bakhshian👨🏻‍💻</h1>
 <p>Front-End Developer, PHP / Laravel Learner</p>
 </div>
+
 
 <br>
 
 <div align="center">
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvlpr1996&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&line_height=35)](https://github.com/dvlpr1996/dvlpr1996)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvlpr1996&theme=vue-dark&include_all_commits=true&line_height=35)](https://github.com/dvlpr1996/dvlpr1996)
+ [![dvlpr1996's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvlpr1996&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&line_height=40)](https://github.com/dvlpr1996/dvlpr1996)  [![dvlpr1996](https://github-readme-stats.vercel.app/api/top-langs/?username=dvlpr1996&theme=vue-dark&include_all_commits=true&line_height=35)](https://github.com/dvlpr1996/dvlpr1996)
 </div>
 
 <br>
@@ -29,6 +30,7 @@
  ![sass](https://img.shields.io/badge/-sass-c69?style=for-the-badge&logo=sass&logoColor=fff)
  ![jquery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
  ![Bootstrap5](https://img.shields.io/badge/-Bootstrap%205-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=fff)
+ ![alpinejs](https://img.shields.io/badge/-alpine.js-2D323E?style=for-the-badge&logo=alpine.js&logoColor=fff)
  ![tailwindcss](https://img.shields.io/badge/-tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=fff)
@@ -46,16 +48,16 @@
 
 <div align="center">
 		  
-   <a href="https://instagram.com/nima_jahanbakhshian">
+   <a href="https://instagram.com/nima_jahanbakhshian" title="dvlpr1996's instagram">
     <img align="left" alt="dvlpr1996" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/nima-jahan-bakhshian">
+  <a href="https://www.linkedin.com/in/nima-jahan-bakhshian" title="dvlpr1996's linkedin">
     <img align="left" alt="dvlpr1996" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://t.me/nima_1375">
+  <a href="https://t.me/nima_1375" title="dvlpr1996's Telegram">
     <img align="left" alt="dvlpr1996" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="mailto:nimajahanbakhshian@gmail.com">
+  <a href="mailto:nimajahanbakhshian@gmail.com" title="dvlpr1996's Gmail">
     <img align="left" alt="dvlpr1996" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
