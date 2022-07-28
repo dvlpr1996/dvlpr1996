@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/nima-jahan-bakhshian" title="dvlpr1996's linkedin">
     <img align="left" alt="dvlpr1996" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://t.me/nima_1375" title="dvlpr1996's Telegram">
+  <a href="https://t.me/nima96_j" title="dvlpr1996's Telegram">
     <img align="left" alt="dvlpr1996" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="mailto:nimajahanbakhshian@gmail.com" title="dvlpr1996's Gmail">
