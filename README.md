@@ -9,7 +9,7 @@
 <p>Front-End Developer, PHP / Laravel Learner</p>
 </div>
 
-
+## 📊 My Statistics
 <br>
 
 <div align="center">
@@ -18,9 +18,8 @@
 </div>
 
 <br>
-<hr>
 
-### Languages and Tools :
+## 🛠 Technologies and Languages
 <br>
 
 <div align="center">
@@ -41,9 +40,9 @@
  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 </div>
 
-<hr>
 
-### Contact Me :
+## 📠 Connect with me
+
 <br>
 
 <div align="center">
