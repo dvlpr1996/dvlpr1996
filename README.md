@@ -5,8 +5,7 @@
 
 <div align="center">
 	
-<h1>Nima jahan bakhshian👨🏻‍💻</h1>
-<p>Front-End Developer, PHP - Laravel Developer</p>
+<p>PHP - Laravel Developer</p>
 </div>
 
 ## 📊 My Statistics
