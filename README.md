@@ -27,14 +27,15 @@
  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=fff)
  ![Livewire](https://img.shields.io/static/v1?style=for-the-badge&message=Livewire&color=4E56A6&logo=Livewire&logoColor=FFFFFF&label=)
  ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=000)
+ ![SQLite 3](https://img.shields.io/badge/-SQLite%203-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff)
  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff)
  ![sass](https://img.shields.io/badge/-sass-c69?style=for-the-badge&logo=sass&logoColor=fff)
  ![tailwindcss](https://img.shields.io/badge/-tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
  ![Bootstrap5](https://img.shields.io/badge/-Bootstrap%205-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=fff)
  ![alpinejs](https://img.shields.io/badge/-alpine.js-2D323E?style=for-the-badge&logo=alpine.js&logoColor=fff)
- ![jquery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
+ ![jquery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
 </div>
 
 
