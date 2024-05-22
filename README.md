@@ -58,4 +58,7 @@
   <a href="mailto:nimajahanbakhshian@gmail.com" title="dvlpr1996's Gmail">
     <img align="left" alt="dvlpr1996" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://leetcode.com/u/dvlpr1996/" title="leetcode">
+    <img align="left" alt="dvlpr1996" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+  </a>
 </div>
