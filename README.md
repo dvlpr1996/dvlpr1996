@@ -86,9 +86,14 @@
 ![tailwindcss](https://img.shields.io/badge/-tailwind%20css-06B6D4?style=flat&logo=tailwindcss&logoColor=fff)
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap%205-7952B3?style=flat&logo=Bootstrap&logoColor=fff)
 ![alpinejs](https://img.shields.io/badge/-alpine.js-2D323E?style=flat&logo=alpine.js&logoColor=fff)
-![cURL](https://img.shields.io/badge/-CURL-007396?style=flat&logo=CURL&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=fff)
 ![jquery](https://img.shields.io/badge/-jquery-0769AD?style=flat&logo=jquery&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=fff)
+![cURL](https://img.shields.io/badge/-CURL-007396?style=flat&logo=CURL&logoColor=white)
+![Composer](https://img.shields.io/badge/-Composer-885630?style=flat&logo=composer&logoColor=fff)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=fff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 <!-- 
 ![Inertia.js](https://img.shields.io/badge/-Inertia.js-4D8DD4?style=flat&logo=inertia&logoColor=white)
