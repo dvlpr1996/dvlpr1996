@@ -69,6 +69,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=Laravel&logoColor=fff)
 ![Livewire](https://img.shields.io/static/v1?style=flat&message=Livewire&color=4E56A6&logo=Livewire&logoColor=FFFFFF&label=)
 ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite 3](https://img.shields.io/badge/-SQLite%203-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
 ![Smarty](https://img.shields.io/badge/-Smarty-FFBF00?style=flat&logo=smarty&logoColor=white&logo=Smarty&logoColor=white)
@@ -96,7 +97,6 @@
 
 
 <!-- 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-333333?style=flat&logo=drizzle&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/-Inertia.js-4D8DD4?style=flat&logo=inertia&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=fff)
@@ -127,9 +127,9 @@
   <a href="mailto:nimajahanbakhshian@gmail.com" title="dvlpr1996's Gmail">
     <img align="left" alt="dvlpr1996" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://leetcode.com/u/dvlpr1996/" title="leetcode">
+<!--   <a href="https://leetcode.com/u/dvlpr1996/" title="leetcode">
     <img align="left" alt="dvlpr1996" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-  </a>
+  </a> -->
 </div>
 
 <br>
