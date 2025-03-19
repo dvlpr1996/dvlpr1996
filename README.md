@@ -12,7 +12,6 @@
 <div>
 	
 [![GitHub followers](https://img.shields.io/github/followers/dvlpr1996?label=Follow&style=social)](https://github.com/dvlpr1996)
-[![](https://visitcount.itsvg.in/api?id=dvlpr1996&icon=0&color=11)](https://visitcount.itsvg.in)
 </div>
 
 ## 📊 My Statistics
@@ -96,7 +95,9 @@
 ![jquery](https://img.shields.io/badge/-jquery-0769AD?style=flat&logo=jquery&logoColor=fff)
 
 
+
 <!-- 
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff)
 ![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-333333?style=flat&logo=drizzle&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/-Inertia.js-4D8DD4?style=flat&logo=inertia&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=fff)
