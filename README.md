@@ -77,6 +77,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff) 
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=fff)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-4D8DD4?style=flat&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
@@ -97,7 +98,6 @@
 
 
 <!-- 
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff)
 ![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-333333?style=flat&logo=drizzle&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/-Inertia.js-4D8DD4?style=flat&logo=inertia&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=fff)
